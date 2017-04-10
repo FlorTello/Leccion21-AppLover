@@ -44,19 +44,36 @@ header {
   font-size: 14px;
 }
 #services{
-    background-color: #F17C72 ;
-    text-align: center;
-    color: #fff;
-    padding: 70px 7px;
+  background-color: #F17C72 ;
+  text-align: center;
+  color: #fff;
+  padding: 70px 7px;
 }
 .box-services{
-    display: inline-block;
-    width: 30%;
-    margin-top: 63px;
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
 }
 .text-services{
-    font-size: 35px;
-    letter-spacing: 2px;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+#work{
+  background-color: pink;
+  padding: 70px;
+  text-align: center;
+}
+.box-work{
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+.text-work{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.box-work img.img-work{
+  width: 70%;
 }
 footer{
   text-align: center;
